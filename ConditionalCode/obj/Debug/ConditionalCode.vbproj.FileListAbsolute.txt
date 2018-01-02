@@ -1,0 +1,34 @@
+C:\Users\raymond.harmon\AppData\Local\Temporary Projects\ConditionalCode\bin\Debug\ConditionalCode.exe.config
+C:\Users\raymond.harmon\AppData\Local\Temporary Projects\ConditionalCode\bin\Debug\ConditionalCode.exe
+C:\Users\raymond.harmon\AppData\Local\Temporary Projects\ConditionalCode\bin\Debug\ConditionalCode.pdb
+C:\Users\raymond.harmon\AppData\Local\Temporary Projects\ConditionalCode\bin\Debug\ConditionalCode.xml
+C:\Users\raymond.harmon\AppData\Local\Temporary Projects\ConditionalCode\obj\Debug\ConditionalCode.vbprojResolveAssemblyReference.cache
+C:\Users\raymond.harmon\AppData\Local\Temporary Projects\ConditionalCode\obj\Debug\ConditionalCode.Form1.resources
+C:\Users\raymond.harmon\AppData\Local\Temporary Projects\ConditionalCode\obj\Debug\ConditionalCode.Resources.resources
+C:\Users\raymond.harmon\AppData\Local\Temporary Projects\ConditionalCode\obj\Debug\ConditionalCode.vbproj.GenerateResource.Cache
+C:\Users\raymond.harmon\AppData\Local\Temporary Projects\ConditionalCode\obj\Debug\ConditionalCode.exe
+C:\Users\raymond.harmon\AppData\Local\Temporary Projects\ConditionalCode\obj\Debug\ConditionalCode.xml
+C:\Users\raymond.harmon\AppData\Local\Temporary Projects\ConditionalCode\obj\Debug\ConditionalCode.pdb
+C:\VBNet\ConditionalCode\ConditionalCode\bin\Debug\ConditionalCode.exe.config
+C:\VBNet\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.exe
+C:\VBNet\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.xml
+C:\VBNet\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.pdb
+C:\VBNet\ConditionalCode\ConditionalCode\bin\Debug\ConditionalCode.exe
+C:\VBNet\ConditionalCode\ConditionalCode\bin\Debug\ConditionalCode.pdb
+C:\VBNet\ConditionalCode\ConditionalCode\bin\Debug\ConditionalCode.xml
+C:\VBNet\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.vbprojResolveAssemblyReference.cache
+C:\VBNet\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.Form1.resources
+C:\VBNet\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.Resources.resources
+C:\VBNet\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Six & Seven\ConditionalCode\ConditionalCode\bin\Debug\ConditionalCode.exe.config
+A:\Cincinnati State\.NET programming\Week Six & Seven\ConditionalCode\ConditionalCode\bin\Debug\ConditionalCode.exe
+A:\Cincinnati State\.NET programming\Week Six & Seven\ConditionalCode\ConditionalCode\bin\Debug\ConditionalCode.pdb
+A:\Cincinnati State\.NET programming\Week Six & Seven\ConditionalCode\ConditionalCode\bin\Debug\ConditionalCode.xml
+A:\Cincinnati State\.NET programming\Week Six & Seven\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\Week Six & Seven\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.Form1.resources
+A:\Cincinnati State\.NET programming\Week Six & Seven\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.Resources.resources
+A:\Cincinnati State\.NET programming\Week Six & Seven\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Six & Seven\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\Week Six & Seven\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.exe
+A:\Cincinnati State\.NET programming\Week Six & Seven\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.xml
+A:\Cincinnati State\.NET programming\Week Six & Seven\ConditionalCode\ConditionalCode\obj\Debug\ConditionalCode.pdb
